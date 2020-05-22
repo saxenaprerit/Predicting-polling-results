@@ -1,1 +1,3 @@
-# predicting-polling-results
+# Predicting Polling Results
+
+Tool used: R
